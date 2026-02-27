@@ -3,7 +3,7 @@
 1. Project Title / Headline
    Sales Performance Analytics Dashboard — Amazon Retail Insights
 
-2. Short Description (3–4 lines)
+2. Short Description 
    An interactive sales analytics dashboard designed to monitor and evaluate Amazon retail performance across key business metrics. It provides insights into revenue, customers, order status, product categories, and shipping trends. Users can analyze operational efficiency through delivery partners, payment methods, and fulfillment status. The dashboard transforms transactional sales data into actionable business intelligence.
 
 3. Tech Stack
@@ -23,3 +23,5 @@
   • 🎯 Executive-Friendly Visualization — Clear, structured layout for quick decision-making.
 
 5. Screenshot
+   <img width="326" height="424" alt="image" src="https://github.com/user-attachments/assets/c5d6325d-6560-4ff3-93ab-1263e141e983" />
+
