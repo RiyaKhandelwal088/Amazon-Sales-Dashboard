@@ -23,5 +23,6 @@
   • 🎯 Executive-Friendly Visualization — Clear, structured layout for quick decision-making.
 
 5. Screenshot
+ 
    <img width="326" height="424" alt="image" src="https://github.com/user-attachments/assets/c5d6325d-6560-4ff3-93ab-1263e141e983" />
 
