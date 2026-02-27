@@ -12,7 +12,7 @@
   • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and                 aggregation.
   • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4. Key Features of the Dashboard
+4. Key Features 
   •💰 Revenue & Customer Overview — Displays total sales amount, customer count, and order metrics at a glance.
   • 📦 Order Status Distribution — Visual breakdown of shipped, delivered, and pending orders.
   • 🛍️ Top Performing Categories — Highlights highest-selling product categories for strategic insights.
